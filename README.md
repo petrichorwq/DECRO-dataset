@@ -1,9 +1,9 @@
 # deepfake cross-lingual (DECRO) evaluation dataset
 
-This repository provides the DECRO dataset mentioned in the paper: Transferring Audio Deepfake Detection Capability across Languages (TheWebConf 2023). **DE**epfake **CRO**ss-lingual evaluation dataset is constructed to evaluate the influence of language difference. 
+This repository provides the DECRO dataset mentioned in the paper: Transferring Audio Deepfake Detection Capability across Languages (accepted by TheWebConf 2023). **DE**epfake **CRO**ss-lingual evaluation dataset is constructed to evaluate the influence of language difference. 
 
 ## Composition
-DECRO consists of two subsets: English and Chinese subsets. The English and Chinese parts both contain bona-fide and spoofed speech samples, and have almost the same total audio length. Most importantly, the spoofed speech signals in the two parts are generated with the same types of synthetic techniques, which helps to exclude other interference factors and \qw{benefits accurate measurement} on the detection accuracy.
+DECRO consists of two subsets: English and Chinese subsets. The English and Chinese parts both contain bona-fide and spoofed speech samples, and have almost the same total audio length. Most importantly, the spoofed speech signals in the two parts are generated with the same types of synthetic techniques, which helps to exclude other interference factors and benefits accurate measurement on the detection accuracy.
 
 ### Composition of Bona-fide Part
 There are 21218 bona-fide utterances in the Chinese subset and 12484 bona-fide utterances in the English subset. 
