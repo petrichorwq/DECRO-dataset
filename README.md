@@ -1,5 +1,7 @@
 # DEepfake CROss-lingual (DECRO) evaluation dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7603208.svg)](https://doi.org/10.5281/zenodo.7603208)
+
 This repository provides the DECRO dataset mentioned in the paper: Transferring Audio Deepfake Detection Capability across Languages (accepted by TheWebConf 2023). **DE**epfake **CRO**ss-lingual evaluation dataset is constructed to evaluate the influence of language differences on deepfake detection. 
 
 ## Composition
