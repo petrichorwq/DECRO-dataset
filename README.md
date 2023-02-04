@@ -211,10 +211,7 @@ note = {Online; accessed 09-Oct-2022}
 [13] FMFCC-A
 ```bibtex
 @article{zhang2021FMFCCA,
-  author    = {Zhenyu Zhang and
-               Yewei Gu and
-               Xiaowei Yi and
-               Xianfeng Zhao},
+  author    = {Zhenyu Zhang and Yewei Gu and Xiaowei Yi and Xianfeng Zhao},
   title     = {{FMFCC-A:} {A} Challenging Mandarin Dataset for Synthetic Speech Detection},
   journal   = {CoRR},
   volume    = {abs/2110.09441},
@@ -227,7 +224,15 @@ note = {Online; accessed 09-Oct-2022}
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
-
+[14] ASVspoof2019
+```
+@article{todisco2019asvspoof,
+  title={{ASVspoof} 2019: Future Horizons in Spoofed and Fake Audio Detection},
+  author={Todisco, Massimiliano and Wang, Xin and Vestman, Ville and Sahidullah, Md and Delgado, Hector and Nautsch, Andreas and Yamagishi, Junichi and Evans, Nicholas and Kinnunen, Tomi and Lee, Kong Aik},
+  journal={arXiv preprint arXiv:1904.05441},
+  year={2019}
+}
+```
 ## LICENSE
 CC-BY-4.0. 
 
