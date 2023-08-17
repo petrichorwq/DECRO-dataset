@@ -4,6 +4,27 @@
 
 This repository provides the DECRO dataset mentioned in the paper: Transferring Audio Deepfake Detection Capability across Languages (accepted by TheWebConf 2023). **DE**epfake **CRO**ss-lingual evaluation dataset is constructed to evaluate the influence of language differences on deepfake detection. 
 
+## Citation
+If you use DECRO dataset for deepfake detection, please use the following citation:
+```bibtex
+@inproceedings{10.1145/3543507.3583222,
+author = {Ba, Zhongjie and Wen, Qing and Cheng, Peng and Wang, Yuwei and Lin, Feng and Lu, Li and Liu, Zhenguang},
+title = {Transferring Audio Deepfake Detection Capability across Languages},
+year = {2023},
+isbn = {9781450394161},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3543507.3583222},
+doi = {10.1145/3543507.3583222},
+booktitle = {Proceedings of the ACM Web Conference 2023},
+pages = {2033–2044},
+numpages = {12},
+series = {WWW '23}
+}
+```
+
+
+
 ## Composition
 DECRO consists of two subsets: English and Chinese subsets. The English and Chinese parts both contain bona-fide and spoofed speech samples, and have almost the same total audio length. Most importantly, the spoofed speech signals in the two parts are generated with the same types of synthetic algorithms, which helps to exclude other interference factors and benefits accurate measurement of the impact of language differences on the detection accuracy.
 
